@@ -6,7 +6,7 @@ public class Hello {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//test5
+		//test6
 	}
 
 }
